@@ -1,4 +1,4 @@
-# Ruby: Beer Song
+# Ruby: Beer Song Betise
 
 Write a program which produces the lyrics to that beloved classic, that field-trip favorite: 99 Bottles of Beer on the Wall.
 
